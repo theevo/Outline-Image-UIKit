@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = 6QY69PUF72;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Outline_Image_UIKit/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Outline-Image-UIKit";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +321,7 @@
 				DEVELOPMENT_TEAM = 6QY69PUF72;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Outline_Image_UIKit/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Outline-Image-UIKit";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
