@@ -11,4 +11,4 @@ This is a demonstration of how to programmatically draw an outline or border aro
 
 ## Resources
 
-Car Clipart -  ([flyclipart.com](https://flyclipart.com/car-fast-car-racing-car-red-racing-car-sports-car-icon-fast-car-png-751854))
+Apple clipart - [clipartmax.com](https://www.clipartmax.com/middle/m2K9A0m2A0K9b1A0_red-apple-fruits-png-transparent-images-clipart-icons-transparent-background-apple-clipart/)
