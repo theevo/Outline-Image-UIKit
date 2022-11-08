@@ -31,6 +31,9 @@
                             <constraint firstItem="ezB-yJ-uUD" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="vz5-Wa-rQO"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="fruitImageView" destination="ezB-yJ-uUD" id="dGU-TC-Vxo"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
